@@ -1,4 +1,4 @@
-# selenoid-started
+# selenoid-starter
 
 How to use:
 1. chmod +x ./start.sh
